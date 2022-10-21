@@ -4,6 +4,7 @@ using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using StudentRecordManagementApp.Repository;
 using StudentRecordManagementApp.Services;
 using System;
 using System.Collections.Generic;
@@ -41,7 +42,8 @@ namespace StudentRecordManagementApp
             services.AddMemoryCache();
 
             // Add a custom scoped service
-            services.AddScoped<IStudentService, StudentServices>();
+            //services.AddScoped<IStudentService, StudentServices>();
+            services.AddScoped<IStudentService, StudentRepository>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

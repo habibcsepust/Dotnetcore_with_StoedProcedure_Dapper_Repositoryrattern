@@ -281,6 +281,7 @@ E:\DotNetCore\Backup\StudentRecordManagementApp\StudentRecordManagementApp\bin\D
 E:\DotNetCore\Backup\StudentRecordManagementApp\StudentRecordManagementApp\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
 E:\DotNetCore\Backup\StudentRecordManagementApp\StudentRecordManagementApp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
 E:\DotNetCore\Backup\StudentRecordManagementApp\StudentRecordManagementApp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\DotNetCore\Backup\StudentRecordManagementApp\StudentRecordManagementApp\obj\Debug\net5.0\StudentRecordManagementApp.csproj.AssemblyReference.cache
 E:\DotNetCore\Backup\StudentRecordManagementApp\StudentRecordManagementApp\obj\Debug\net5.0\StudentRecordManagementApp.GeneratedMSBuildEditorConfig.editorconfig
 E:\DotNetCore\Backup\StudentRecordManagementApp\StudentRecordManagementApp\obj\Debug\net5.0\StudentRecordManagementApp.AssemblyInfoInputs.cache
 E:\DotNetCore\Backup\StudentRecordManagementApp\StudentRecordManagementApp\obj\Debug\net5.0\StudentRecordManagementApp.AssemblyInfo.cs
@@ -313,4 +314,3 @@ E:\DotNetCore\Backup\StudentRecordManagementApp\StudentRecordManagementApp\obj\D
 E:\DotNetCore\Backup\StudentRecordManagementApp\StudentRecordManagementApp\obj\Debug\net5.0\ref\StudentRecordManagementApp.dll
 E:\DotNetCore\Backup\StudentRecordManagementApp\StudentRecordManagementApp\obj\Debug\net5.0\StudentRecordManagementApp.pdb
 E:\DotNetCore\Backup\StudentRecordManagementApp\StudentRecordManagementApp\obj\Debug\net5.0\StudentRecordManagementApp.genruntimeconfig.cache
-E:\DotNetCore\Backup\StudentRecordManagementApp\StudentRecordManagementApp\obj\Debug\net5.0\StudentRecordManagementApp.csproj.AssemblyReference.cache
