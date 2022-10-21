@@ -1,0 +1,32 @@
+﻿@*@using StudentRecordManagementApp.Models
+@model StudentRecordManagementApp.Models.AllModels*@
+@model List<StudentRecordManagementApp.Models.Student>
+
+@{
+    ViewData["Title"] = "Student List";
+
+}
+
+<h1>Student List</h1>
+<partial name="_Pager" />
+<table class="table">
+    <thead>
+        
+        <tr>
+            <th>SL</th>
+            <th>Name</th>
+            <th>Email</th>
+            <th>City</th>
+            <th>Created On</th>
+        </tr>
+    </thead>
+    <tbody>
+        <partial name="_Students"/>
+        @*OR  <partial name="_Students" model="@Model" />*@
+     </tbody>
+</table>
+
+@*<partial name="_Pager" model="@Pager"/>
+Evabe Model O Pass Kora jai*@
+
+<partial name="_Pager"/>

@@ -1,0 +1,17 @@
+﻿@model List<StudentRecordManagementApp.Models.Student>
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+@foreach (var item in Model)
+{
+    <tr>
+        <td>@item.StudentId</td>
+        <td>@item.FullName</td>
+        <td>@item.EmailAddress</td>
+        <td>@item.City</td>
+        <td>@item.CreatedOn</td>
+    </tr>
+}
